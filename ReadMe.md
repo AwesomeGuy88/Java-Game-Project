@@ -3,7 +3,7 @@
 Based off Combat made by Atari in 1977 where the objective is to destroy the
 opponent tank as many times as possible within a two minute time frame..
 The game is built using Java and the JavaFX library. CherryPy is used
-to build multiplayer capabilities <br/>
+to build its multiplayer capabilities. <br/>
  <br/>
 **Features** <br/>
  
