@@ -2,8 +2,9 @@
 
 Based off Combat made by Atari in 1977 where the objective is to destroy the
 opponent tank as many times as possible within a two minute time frame..
-The game is built using Java and the JavaFX library. <br/>
-
+The game is built using Java and the JavaFX library. CherryPy is used
+to build multiplayer capabilities <br/>
+ <br/>
 **Features** <br/>
  
  
@@ -16,17 +17,17 @@ The game is built using Java and the JavaFX library. <br/>
  *Interface:* Pause, Health, Mana, Name, Wave Number, Warning <br/>
 
  *Monetary System:* Upgrade tank, Unlock Skills <br/>
-
+ <br/>
  
 **Set up** <br/>
 Compile using the master_tanks.sh bash script on a linux platform. <br/>
 *./master_tanks.sh* <br/>
  <br/>
 Make sure: <br/>
-All of the .java and .png files are in a folder called src.  <br/>
-The src folder, the manifest file, and the bash script should be in the same directory. <br/>
-The bash script and the manifest file are in compile_files_for_ubuntu.zip.  <br/>
-Before running the bash script, open its properties and enable 'allow executable file as programme' under the permissions tab. <br/>
+*All of the .java and .png files are in a folder called src.*  <br/>
+*The src folder, the manifest file, and the bash script should be in the same directory.* <br/>
+*The bash script and the manifest file are in compile_files_for_ubuntu.zip.*  <br/>
+*Before running the bash script, open its properties and enable 'allow executable file as programme' under the permissions tab.* <br/>
  <br/>
 
 **Multiplayer** 
